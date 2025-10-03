@@ -1,1 +1,1 @@
-print("NO HAGO NADA")
+print("No se hace nada")
